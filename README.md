@@ -624,7 +624,7 @@ Não deve parecer:
 * Uma imagem gerada novamente em 4K.
 
 ---
-
+ 
 # 26. REGRA FINAL — PRIORIDADE MÁXIMA
 
 **NUNCA ENTREGUE UMA IMAGEM MAIS BORRADA QUE A ORIGINAL.**
